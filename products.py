@@ -1,0 +1,22 @@
+products = [
+  {"id": 1, "name": "Smartphone", "price": 500},
+  {"id": 2, "name": "Laptop", "price": 600},
+  {"id": 3, "name": "Coffee Maker", "price": 700},
+  {"id": 4, "name": "Bluetooth Headphones", "price": 800},
+  {"id": 5, "name": "Fitness Tracker", "price": 900},
+  {"id": 6, "name": "Wireless Mouse", "price": 1000},
+  {"id": 7, "name": "Portable Speaker", "price": 1100},
+  {"id": 8, "name": "Digital Camera", "price": 1200},
+  {"id": 9, "name": "Smart TV", "price": 1300},
+  {"id": 10, "name": "Gaming Console", "price": 1400},
+  {"id": 11, "name": "Electric Blender", "price": 1500},
+  {"id": 12, "name": "Tablet", "price": 1600},
+  {"id": 13, "name": "Drones", "price": 1700},
+  {"id": 14, "name": "Fitness Bike", "price": 1800},
+  {"id": 15, "name": "Soundbar", "price": 1900},
+  {"id": 16, "name": "Robot Vacuum Cleaner", "price": 2000},
+  {"id": 17, "name": "Wireless Earbuds", "price": 2100},
+  {"id": 18, "name": "Smart Thermostat", "price": 2200},
+  {"id": 19, "name": "VR Headset", "price": 2300},
+  {"id": 20, "name": "Home Security Camera", "price": 2400}
+]
