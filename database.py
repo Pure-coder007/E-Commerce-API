@@ -1,11 +1,19 @@
 import mysql.connector 
 from datetime import datetime
 
+# config = {
+#     'user' : 'root',
+#     'password': 'language007',
+#     'host' : 'localhost',
+#     'database': 'e_commerce'
+# }
+
+
 config = {
-    'user' : 'root',
+    'user' : 'ukah2023',
     'password': 'language007',
-    'host' : 'localhost',
-    'database': 'e_commerce'
+    'host' : 'db4free.net',
+    'database' : 'db_comm'
 }
 
 def setup_database():
